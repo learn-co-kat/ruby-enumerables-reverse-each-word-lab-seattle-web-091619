@@ -1,5 +1,5 @@
 def reverse_each_word (string)
-  x = %w.string
+  x = %w[string]
   y = 0 
   acc = ""
   
