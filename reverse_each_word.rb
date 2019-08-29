@@ -2,7 +2,7 @@ def reverse_each_word (string)
 
 y = string.split(' ').collect{|stg| stg.reverse } 
 
-y.to.s 
+(y)to.s 
 
 return y 
 
